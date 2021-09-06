@@ -1,4 +1,4 @@
 # global context
 [build]
   publish = "source"
-  command = "gulp"
+  command = "gulp build"
